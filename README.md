@@ -26,3 +26,7 @@ Hi, I'm Marcel Nakamine, a curious alchemist that brew solutions.
     <img align=top align="center" src="https://github-readme-stats-amber-gamma.vercel.app/api?username=marcelnakamine&count_private=true&theme=gruvbox" />
     <img align=top align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelnakamine&count_private=true&theme=gruvbox&hide=css,javascript,vue,html,c" />
 </div>
+
+<!--
+[![marcelnakamine's wakatime stats](https://github-readme-stats-amber-gamma.vercel.app/api/wakatime?username=marcelnakamine)](https://github.com/anuraghazra/github-readme-stats)
+-->
