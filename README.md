@@ -23,8 +23,8 @@ Hi, I'm Marcel Nakamine, a curious alchemist that brew solutions.
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 <div align=center>
-    <img align=top align="center" src="https://github-readme-stats.vercel.app/api?username=marcelnakamine&count_private=true&theme=gruvbox" />
-    <img align=top align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelnakamine&count_private=true&theme=gruvbox&hide=css,javascript,vue,html,c" />
+    <img align=top align="center" src="https://github-readme-stats.vercel.app/api?username=marceltn&count_private=true&theme=gruvbox" />
+    <img align=top align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceltn&count_private=true&theme=gruvbox&hide=css,javascript,vue,html,c" />
 </div>
 
 <!--
