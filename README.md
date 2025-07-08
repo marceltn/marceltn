@@ -1,9 +1,9 @@
-### Hi there, I'm [Marcel!](https://marcel.nakamine.com.br) 👋
+### Hi there, I'm [Teruo!](https://teruo.dev) 👋
 
 <br />
 <br />
 
-Hi, I'm Marcel Nakamine, a curious alchemist who brews solutions.
+Hi, I'm Teruo Nakamine, a curious alchemist who brews solutions.
 
 <!--
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
